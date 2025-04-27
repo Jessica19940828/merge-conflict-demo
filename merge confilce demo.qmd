@@ -1,0 +1,12 @@
+---
+title: "merge-conflict-demo"
+format: html
+editor: visual
+---
+
+## Initial repository by Person A
+
+# There is some information
+#LINE 1 
+#LINE 2
+#LINE 3
